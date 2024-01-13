@@ -1,3 +1,3 @@
-const {myWebAddress, myArray, user} = require("./modules/myModules")
+const data = require("./modules/myModules")
 
-console.log(myWebAddress, myArray, user)
+console.log(data)
