@@ -15,16 +15,16 @@
 // console.log(user)
 // console.log(PI)
 
-// const age = 13 
+const age = 20
 
-// if (age >= 18){
-//     console.log("u are an adult")
-// }else if(age >= 13){
-//     console.log(" u are a teenager")
-// }
-// else {
-//     console.log("u are a child")
-// }
+if (age >= 18){
+    console.log("u are an adult")
+}else if(age >= 13){
+    console.log(" u are a teenager")
+}
+else {
+    console.log("u are a child")
+}
 
 
 // const names = ["joe", "kevin", "marco"]
@@ -33,8 +33,8 @@
 //     console.log(names[i])
 // }
 
-const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
+// const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
 
 
-console.log(showUserInfo("Matias",21))
-console.log(showUserInfo("Maria",50))
+// console.log(showUserInfo("Matias",21))
+// console.log(showUserInfo("Maria",50))
