@@ -1,12 +1,13 @@
 {
-  "dependencies": {
-    "bootstrap": "^5.3.2",
-    "colors": "^1.4.0",
-    "dayjs": "^1.11.10",
-    "lodash": "^4.17.21",
-    "nodemon": "^3.0.3"
-  },
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "vacadiv": "cowsay Hola mundo del script"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
