@@ -2,7 +2,7 @@
 
 
 // const createBigFile = async () => {
-//     await writeFile("./data/bigFile.txt", "hello world".repeat(1000000))
+//     await writeFile("./data/bigFile.txt", "hello world".repeat(100000))
 // }
 
 // createBigFile()
